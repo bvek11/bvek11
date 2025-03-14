@@ -1,5 +1,11 @@
 # 💫 About Me:
-## Hi there 👋<br><br>- 🔭 I’m currently working on AI for Earth Observation <br>- 🌱 I’m currently learning Big Data Analytics for Satellite Data <br>- 👯 I’m looking to collaborate on geospatial data<br>- 🤔 I’m looking for help with SQL, Deep Learning<br>
+## Hi there 👋  
+
+🔭 I’m currently working on **AI for Earth Observation**  
+ 🌱 Learning **Big Data Analytics** for **Satellite Data**  
+ 👯 Open to collaborations on **Geospatial Data** projects  
+ 🤔 Looking for help with **SQL** and **Deep Learning**  
+
 
 # 🌐 Socials:
 

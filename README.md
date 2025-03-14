@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi there 👋<br><br>- 🔭 I’m currently working on AI for Earth Observation <br>- 🌱 I’m currently learning Big Data Analytics for Satellite Data <br>- 👯 I’m looking to collaborate on geospatial data<br>- 🤔 I’m looking for help with SQL, Deep Learning<br>
 
-## 🌐 Socials:
+#🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bvek/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://bvek.medium.com/) 
 
 # 💻 Tech Stack:
@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=vivekb13&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=vivekb13&theme=aura_dark&hide_border=true) |
-|---|---|
+| --- | --- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekb13&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=vivekb13&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 <p align="center">
@@ -19,4 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vivekb13&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

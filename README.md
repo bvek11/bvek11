@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi there 👋<br><br>- 🔭 I’m currently working on AI for Earth Observation <br>- 🌱 I’m currently learning Big Data Analytics for Satellite Data <br>- 👯 I’m looking to collaborate on geospatial data<br>- 🤔 I’m looking for help with SQL, Deep Learning<br>
 
-#🌐 Socials:
+##🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bvek/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://bvek.medium.com/) 
 
 # 💻 Tech Stack:

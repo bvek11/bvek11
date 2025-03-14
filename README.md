@@ -23,10 +23,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
-    ![](https://github-contributor-stats.vercel.app/api?username=vivekb13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    ![(https://github-contributor-stats.vercel.app/api?username=vivekb13&limit=5&theme=dark&combine_all_yearly_contributions=true)]
   </div>
   <div style="flex: 1; text-align: right;">
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    ![(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]
   </div>
 </div>
 

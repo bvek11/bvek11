@@ -21,13 +21,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekb13&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=vivekb13&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-    </td>
-  </tr>
 </table>
 
 

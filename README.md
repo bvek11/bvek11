@@ -26,8 +26,8 @@
 </table>
 
 <p align="center">
-  <img src="https://zenquotes.io/api/image" alt="Motivational Quote"/>
-</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vivekb13&icon=2&color=3)](https://visitcount.itsvg.in)

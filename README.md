@@ -1,17 +1,10 @@
 # 💫 About Me:
-## Hi there 👋  
 
 ## Hi there 👋  
-
 <span style="font-size: 20px;">🔭 I’m currently working on <b>AI for Earth Observation</b></span>  
-
 <span style="font-size: 20px;">🌱 Learning <b>Big Data Analytics</b> for <b>Satellite Data</b></span>  
-
 <span style="font-size: 20px;">👯 Open to collaborations on <b>Geospatial Data</b> projects</span>  
-
 <span style="font-size: 20px;">🤔 Looking for help with <b>SQL</b> and <b>Deep Learning</b></span>  
-
-
 
 # 🌐 Socials:
 

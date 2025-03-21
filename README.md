@@ -1,22 +1,12 @@
 # Hi there 👋  
 
-Hi, **I’m Vivek Krishna**,  
-a **Geospatial Data Analyst** at **Auroville Consulting 👨‍💻💼**.  
+- **I’m Vivek Krishna**, a **Geospatial Data Analyst** at **Auroville Consulting 👨‍💻💼**.  
+- Currently, I am exploring the world of **AI for Earth Observation** 🔭.  
+- I am expanding my knowledge in **Big Data Analytics for Earth Observation Data 🌍📊**.  
+- I am looking to sharpen my skills in **SQL** and **Deep Learning 🤖💬**.  
+- I am open to collaborating on innovative **geospatial data projects** 👯🌍.  
 
-Currently, I am exploring the world of  
-**AI for Earth Observation** 🔭.  
-
-I am expanding my knowledge in  
-**Big Data Analytics for Earth Observation Data 🌍📊**.  
-
-I am looking to sharpen my skills in  
-**SQL** and **Deep Learning 🤖💬**.  
-
-I am open to collaborating on  
-innovative **geospatial data projects** 👯🌍.  
-
-Let’s connect and build  
-**impactful solutions together**! 🚀✨  
+Let’s connect and build **impactful solutions together**! 🚀✨  
 
 
 # 💻 Tech Stack

@@ -1,4 +1,4 @@
-# Hi there 👋  
+# Hi, Hey, Hello 👋  
 
 - **I’m Vivek Krishna**, a **Geospatial Data Analyst** at **Auroville Consulting 👨‍💻💼**.  
 - Currently, I am exploring the world of **AI for Earth Observation** 🔭.  

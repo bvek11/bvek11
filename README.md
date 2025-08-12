@@ -1,6 +1,6 @@
 # Hi, Hey, Hello 👋  
 
-- **I’m Vivek Krishna**, a **Geospatial Data Analyst** 
+- **I’m Vivek Krishna**, a **Junior Geospatial Engineer** 
 - Currently, I am exploring the world of **AI for Earth Observation** 🔭.  
 - I am expanding my knowledge in **Big Data Analytics for Earth Observation Data 🌍📊**.  
 - I am looking to sharpen my skills in **SQL** and **Deep Learning 🤖💬**.  
